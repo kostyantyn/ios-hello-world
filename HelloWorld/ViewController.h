@@ -10,4 +10,6 @@
 
 @interface ViewController : UIViewController
 
+@property (copy, nonatomic) NSString *userName;
+
 @end
